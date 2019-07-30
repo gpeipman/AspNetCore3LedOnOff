@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>Led is <strong>@ViewBag.LedState</strong></p>
+    <p>
+        <a asp-action="LedOn">Turn on</a> | <a asp-action="LedOff">Turn off</a>
+    </p>
+</div>
