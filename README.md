@@ -7,7 +7,7 @@ RaspberryPi and Windows 10 IoT Core.
 
 Example here uses same wiring as .NET Core IoT Libraries LED blink sample.
 
-!(rpi-led_bb.png)
+![Wiring](rpi-led_bb.png)
 
 ## Support materials
 
