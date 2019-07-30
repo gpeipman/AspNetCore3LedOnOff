@@ -3,6 +3,12 @@
 This is sample project to demonstrate how to control LED lamp from ASP.NET Core 3.0 web application hosted on 
 RaspberryPi and Windows 10 IoT Core. 
 
+## Wiring
+
+Example here uses same wiring as .NET Core IoT Libraries LED blink sample.
+
+!(rpi-led_bb.png)
+
 ## Support materials
 
 * [Blink an LED with .NET Core on a Raspberry Pi (.NET Core IoT Libraries)](https://github.com/dotnet/iot/tree/master/samples/led-blink)
